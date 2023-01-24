@@ -1,4 +1,4 @@
-[![Header](https://github.com/Daniel-Goncharov/Daniel-Goncharov/blob/main/assets/header.png)]
+![Header](https://github.com/Daniel-Goncharov/Daniel-Goncharov/blob/main/assets/header.png)
 
 ### Привет! Меня зовут Даниил я Web Developer.
 * 6 лет я занимался разработкой электронных обучающих курсов и решил развивать карьеру как Web Developer
